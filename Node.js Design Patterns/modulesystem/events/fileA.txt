@@ -1,0 +1,7 @@
+exports.name = 'et';
+module.exports = {
+	// name: 'et1',
+hello: () => {
+		console.log('h1ello et')
+	}
+}
