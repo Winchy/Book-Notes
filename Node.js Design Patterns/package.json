@@ -1,0 +1,8 @@
+{
+	"description": "node.js design patterns",
+	"repository": {},
+	"license": "",
+	"dependencies": {
+		"co": "^4.6.0"
+	}
+}
