@@ -3,6 +3,10 @@
 	"repository": {},
 	"license": "",
 	"dependencies": {
-		"co": "^4.6.0"
+		"co": "^4.6.0",
+		"from2-array": "0.0.4",
+		"request": "^2.85.0",
+		"split": "^1.0.1",
+		"through2": "^2.0.3"
 	}
 }
